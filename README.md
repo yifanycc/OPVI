@@ -4,5 +4,3 @@
 Developed base on the code for paper 'Understanding and Accelerating Particle-Based Variational Inference'.
 
 readme file will be updated soon
-
-c) Yifan Yang, Chang Liu, Zheng Zhang
